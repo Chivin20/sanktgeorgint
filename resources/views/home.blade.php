@@ -185,7 +185,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                            <h1 style = "color:white; font-family: monospace;  font-style:opaque; font-weight:Bold;"> SANKT GEORG INTERNATIONAL SCHOOL
                         </h1>
                         <h4 style="color:wheat; font-weight:bold;"> Where your child education is our priority</h4>
-                      --> 
+                      
                                     </div>
                                </div>
                            </div>
@@ -246,7 +246,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                                      <h1 style = "color:white; font-family: monospace;  font-style:normal"> <b>STUDENTS IN THE <br> SECONDARY SECTION </b>
                         </h1>
                         <h4 style="color:wheat; font-weight:bold;"> LEARNING IN THEIR CLASSROOM </br> AT SANK GEORG INTERNATIONAL SCHOOL</h4>
-                      --> 
+                      
                                     </div>
                                </div>
                            </div>
@@ -521,8 +521,8 @@ Thank you for taking the time to visit our website. If you have any questions or
                         <p style="margin-left: 10%; margin-right: 10%; font-family: 'Quicksand', sans-serif; ">
                             My daughter went from struggling with Mathematics before  I brought her here to winning ways.<br />
                             Today, she can confidently take part in Maths competitions at her level with a high chance of doing very well.<br />
-                             Thanks to the transformation from members and staff of Sankt George International School. 
-                            Sankt George International School is the best place to be
+                             Thanks to the transformation from members and staff of Sankt Georg International School. 
+                            Sankt Georg International School is the best place to be
                             </p>
                         <h5><b>MRS NWOKO CHINYERE</b></h5>
                         
@@ -531,9 +531,9 @@ Thank you for taking the time to visit our website. If you have any questions or
                     <div class="carousel-item ">
                         
                         <p style="margin-left: 10%; margin-right: 10%; font-family: 'Quicksand', sans-serif;">
-                            I got involved with Sankt George International School when my son improved academically after a few weeks of their free summer lesson. <br />
-                            I had to pull him out of his previous school to continue at Sankt George International School. After the first term here,<br />
-                             I’ve since more improvement both morally and academically
+                            I got involved with Sankt Georg International School when my son improved academically after a few weeks of their free summer lesson. <br />
+                            I had to pull him out of his previous school to continue at Sankt Georg International School. After the first term here,<br />
+                             he has improved alot both morally and academically
                         </p>
                         <h5><b>DR. MRS. EBE TOCHUKWU</b></h5>
                     </div>
@@ -593,8 +593,8 @@ Thank you for taking the time to visit our website. If you have any questions or
                         <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:500px; height:600px;" />
                         <div class="middle">
                             <div class="text rounded">
-                            Rev Fr. Collins Anoka
-                                <p>School Proprietor</p>
+                            Rev. Fr. Collins Anoka
+                                <p>School Administrator</p>
                             </div>
                             
                           </div>
@@ -651,13 +651,13 @@ Thank you for taking the time to visit our website. If you have any questions or
         <div class="middle">
             <div class="text rounded">
                 
-                <p>School Proprietor</p>
+                <p>School Administrator</p>
             </div>
             
         </div>
 
     <div class="card-body text-center">
-        <h5 class="card-title"><b>Rev Fr. Collins Anoka</b></h5>
+        <h5 class="card-title"><b>Rev. Fr. Collins Anoka</b></h5>
       </div>
     </div>
     </div>
@@ -707,7 +707,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                             <div class="middle">
                                 <div class="text rounded">
                                     
-                                    <p>School Manager</p>
+                                    <p>Admissions</p>
                                 </div>
                                 
                             </div>

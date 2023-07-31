@@ -61,8 +61,8 @@
                         <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:500px; height:600px;" />
                         <div class="middle">
                             <div class="text rounded">
-                            Rev Fr. Collins Anoka
-                                <p>School Proprietor</p>
+                            Rev. Fr. Collins Anoka
+                                <p>School Administrator</p>
                             </div>
                             
                           </div>
@@ -90,18 +90,18 @@
                         School Secretary, Dean of Students’ Affairs, Admissions officer, Hostel Administrators, Head of Security, 
                         and a representative from the State Ministry of Education. </p>
 
-                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Section Heads: </b></h5>  
-                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        The Section Heads of the primary and secondary sections in the persons of the Head Teacher and the Principal are 
-                        responsible for overseeing the academic programs, curriculum development, and overall educational standards of 
-                        their respective sections. The section heads work in collaboration with the School Management Board.           
-                        </p>
-
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>School Administrator: </b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The office of the school administrator plays a crucial role in coordinating various 
                         administrative tasks. It oversees and manages day-to-day operations, handles logistics, ensures compliance 
                         with regulations, and provide support to both staff, pupils and students.         
+                        </p>
+
+                        <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Section Heads: </b></h5>  
+                        <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
+                        The Section Heads of the primary and secondary sections in the persons of the Head Teacher and the Principal are 
+                        responsible for overseeing the academic programs, curriculum development, and overall educational standards of 
+                        their respective sections. The section heads work in collaboration with the School Management Board.           
                         </p>
 
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>School Bursar:</b></h5>  
@@ -201,13 +201,13 @@
         <div class="middle">
             <div class="text rounded">
             
-                <p>School Proprietor</p>
+                <p>School Administrator</p>
             </div>
             
         </div>
 
     <div class="card-body text-center">
-        <h5 class="card-title"><b>Rev Fr. Collins Anoka</b></h5>
+        <h5 class="card-title"><b>Rev. Fr. Collins Anoka</b></h5>
         
       </div>
 </div>
@@ -262,13 +262,13 @@
                             <img class="rounded img-fluid mx-auto image" style="height:220px ; width:200px;" src="../assets/img/schoolmanager.jpg" />
                             <div class="middle">
                                 <div class="text rounded">
-                                    <p>School Manager</p>
+                                    <p>Admissions</p>
                                 </div>
                                 
                             </div>
                     
                         <div class="card-body text-center">
-                        <h5 class="card-title"><b>Mrs. Angela Ezeuiro</b></h5>
+                        <h5 class="card-title"><b>Mrs. Angela Ezebuiro</b></h5>
                         <h6> NCE, ISC/CHEM.
                             B.Ed in Educational Management </h6>
 

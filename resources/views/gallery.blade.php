@@ -289,7 +289,7 @@ Chemistry Laboratory
         <img class="rounded img-fluid mx-auto image" src="../assets/img/chem.jpg"  style="height:600px; weight:500px;"/>
         <div class="middle">
             <div class="text rounded">
-            Physics Laboratory
+            Biology Laboratory
             </div>
             
         </div>
