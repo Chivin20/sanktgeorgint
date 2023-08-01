@@ -296,8 +296,23 @@ Chemistry Laboratory
 
 </div>
 </div>
-         
+
 <div class="col-sm-12 col-md-6"  >
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/physicslab.jpg"  style="height:450px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Physics Laboratory
+            </div>
+            
+        </div>
+
+</div>
+</div>
+         
+<div class="col-sm-12 col-md-6"  style="margin-bottom: 20px;" >
 
 <div class="card">
 
@@ -312,7 +327,7 @@ Fine Arts Laboratory
 </div>
 </div>
 
-<div class="col-sm-12 col-md-6" style="margin-bottom: 20px;" >
+<div class="col-sm-12 col-md-6" >
 
             <div class="card">
     
@@ -357,20 +372,7 @@ Fine Arts Laboratory
 </div>
 </div>
 
-<div class="col-sm-12 col-md-6"  >
 
-            <div class="card">
-    
-        <img class="rounded img-fluid mx-auto image" src="../assets/img/hostel.jpg"  style="height:450px; weight:500px;"/>
-        <div class="middle">
-            <div class="text rounded">
-            Hostel
-            </div>
-            
-        </div>
-
-</div>
-</div>
                 
             </div>
         </div>

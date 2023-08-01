@@ -1,6 +1,21 @@
 @extends('layout')
 
 @section('content')
+<style>
+    /* default map size*/
+    #map-iframe {
+        width: 1500px;
+        height:400px;
+    }
+
+    /* hide map on small devices */
+    @media screen and (max-width: 700px) {
+        #map-iframe {
+            display: none;
+        }
+    }
+
+</style>
 
 <div class="row">
 <div class="container">
@@ -14,7 +29,7 @@
 <!-- About Principal of School -->       
 <div class = "row">
 
-    <div class="col-sm-12 col-md-6" style="margin-top: 20px;border-right: 5px solid; border-right-color:#FFE5B4;">
+    <div class="col-sm-12 col-md-6" style="margin-top: 20px;">
 
         <div class="text-center" style="padding-left: 40px; padding-right: 20px; padding-bottom: 25px;">
        
@@ -90,7 +105,7 @@
         </div>
 
 
-                <div class="col-sm-12 col-md-6"  style=" font-family: 'Quicksand', sans-serif; background-color:#FFFEFA;">
+                <div class="col-sm-12 col-md-6"  style="font-family: 'Quicksand', sans-serif; border-left: 5px solid; border-left-color:#FFE5B4; background-color:#FFFEFA;">
                      <h1 class="mt-3 pt-3" style="font-size: 22px; text-color: black; margin: 20px 20px"><b>GET IN TOUCH</b></h1>
                 
                     <form action="#">
@@ -130,8 +145,8 @@
 </div>       
        
 <div class="col-sm-12 col-md-6">
-          <div id="map">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15887.331919000448!2d6.941180016540041!3d5.44231508091392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10425b7eb772dc23%3A0xa6046d93de08023c!2s460117%2C%20Avu%2C%20Imo!5e0!3m2!1sen!2sng!4v1685436827990!5m2!1sen!2sng" width="1500" height="400" style="border:10px; margin-bottom:20px;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <div id="map-container">
+          <iframe id = "map-iframe" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15887.331919000448!2d6.941180016540041!3d5.44231508091392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10425b7eb772dc23%3A0xa6046d93de08023c!2s460117%2C%20Avu%2C%20Imo!5e0!3m2!1sen!2sng!4v1685436827990!5m2!1sen!2sng" style="border:10px; margin-bottom:20px;" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
            
           </div>
         </div>         
