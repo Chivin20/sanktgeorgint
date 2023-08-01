@@ -1,7 +1,7 @@
 @extends('layout')
 
 @section('content')
-
+<!--
 <script>
     function showHideOption() {
         var parentSelect = document.getElementById ("parent-select");
@@ -36,7 +36,7 @@
         }
 
         </style>
-
+    -->
 <div class="row">
     <div class="container">
         <div class="col-12" style="font-family: 'Quicksand', sans-serif;">
@@ -51,7 +51,9 @@
 
 <div class="row">
     <div class="container">
-        <div class="col-12" style="margin-top: 20px; margin-bottom: 20px; font-family: 'Quicksand', sans-serif;" >
+        <div class="col-12 container-sm" style="margin-top: 20px; margin-bottom: 20px; font-family: 'Quicksand', sans-serif;" >
+        <div class="row">
+        <!--
         <div class="col-sm-12 col-md-6" style="display:flex; justify-content:center; align-items:center; margin-bottom:20px;">    
         <select class = "custon-select" id = "parent-select" onchange="showHideOption()">
             <option value ="Select the Session"> Select Session </option>
@@ -82,21 +84,22 @@
                                 </div> 
 </div>
 
-           <!-- About Principal of School 
+           About Principal of School --> 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
                         <div class="col-3">
-                            <h5><b>Name</b></h5>
+                            <h5 class = "text-danger"><b>Name</b></h5>
                         </div>
                         <div class="col-9">
-                            <h5><b>Date</b></h5>
+                            <h5 class = "text-danger"><b>Date</b></h5>
                         </div>
                     </div>
                 </div>
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
                         <div class="col-3">
-                            <h6>Autumn Term</h6>
+                            <h6 style="color:#4A0404;"><b>Autumn Term</br>
+                        (2022-2023 Session)</b></h6>
                         </div>
                         <div class="col-9">
                             <h6>Tuesday 24 August 2021 - Tuesday 21 December 2021</h6>
@@ -107,7 +110,7 @@
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
                         <div class="col-3">
-                            <h6>First Term</h6>
+                            <h6 style="color:#4A0404;"><b>First Term</b></h6>
                         </div>
                         <div class="col-9">
                             <h6>Thursday 7th of September 2023 - Friday 15th of December 2023</h6>
@@ -136,7 +139,7 @@
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
                         <div class="col-3">
-                            <h6>Second Term</h6>
+                            <h6 style="color:#4A0404;"><b>Second Term</b></h6>
                         </div>
                         <div class="col-9">
                             <h6>Monday 4 December 2021 - Friday 21 March 2022</h6>
@@ -162,7 +165,8 @@
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
                         <div class="col-3">
-                            <h6>Third Term</h6>
+                            <h6 style="color:#4A0404;"><b>Third Term </br>
+                        (2022-2023 Session)</b></h6>
                         </div>
                         <div class="col-9">
                             <h6>Monday 4 December 2021 - Friday 21 March 2022</h6>
@@ -187,11 +191,11 @@
                 
                 <div class="mt-4">
                    
-                    <p class="text-danger">Dates of Session 2022 - 2023</p>
+                    <p class="text-danger">2023-2024 Session</p>
                 </div>
                
               
-            </div>-->
+            </div>
         </div>
     </div>
 </div>
