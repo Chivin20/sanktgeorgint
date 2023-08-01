@@ -157,7 +157,7 @@ Bootstrap 4 breakpoints
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-6"  >
+                <div class="col-sm-12 col-md-6"  style="margin-bottom: 30px;">
 
                     <div class="card">
                         
@@ -174,7 +174,7 @@ Bootstrap 4 breakpoints
                 </div>
 
 
-                <div class="col-sm-12 col-md-6" style="margin-bottom: 20px;"  >
+                <div class="col-sm-12 col-md-6">
 
                     <div class="card">
                         
@@ -191,7 +191,7 @@ Bootstrap 4 breakpoints
                 </div>
 
 
-                <div class="col-sm-12 col-md-6"  >
+                <div class="col-sm-12 col-md-6"  style="margin-bottom: 30px;" >
 
                     <div class="card">
                         
@@ -206,7 +206,7 @@ Bootstrap 4 breakpoints
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-6"style="margin-bottom: 20px;" >
+                <div class="col-sm-12 col-md-6">
 
                     <div class="card">
                         
@@ -221,113 +221,7 @@ Bootstrap 4 breakpoints
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-6" style="margin-bottom: 20px;" >
-
-            <div class="card">
-    
-        <img class="rounded img-fluid mx-auto image" src="../assets/img/facility7.png"  style="height:450px; weight:500px;"/>
-        <div class="middle">
-            <div class="text rounded">
-            Security Post
-            </div>
-            
-        </div>
-
-</div>
-</div>
-
-<div class="col-sm-12 col-md-6"  >
-
-            <div class="card">
-    
-        <img class="rounded img-fluid mx-auto image" src="../assets/img/library.jpg"  style="height:450px; weight:500px;"/>
-        <div class="middle">
-            <div class="text rounded">
-            Library
-            </div>
-            
-        </div>
-
-</div>
-</div>
-         
-
-         <div class="col-sm-12 col-md-6" style="margin-bottom: 20px;" >
-
-            <div class="card">
-    
-        <img class="rounded img-fluid mx-auto image" src="../assets/img/Dorm.jpg"  style="height:600px; weight:500px;"/>
-        <div class="middle">
-            <div class="text rounded">
-            Dormitory
-            </div>
-            
-        </div>
-
-</div>
-</div>
-         
-<div class="col-sm-12 col-md-6"  >
-
-<div class="card">
-
-<img class="rounded img-fluid mx-auto image" src="../assets/img/lab.jpg"  style="height:600px; weight:500px;"/>
-<div class="middle">
-<div class="text rounded">
-Chemistry Laboratory
-</div>
-
-</div>
-
-</div>
-</div>
-
-<div class="col-sm-12 col-md-6" style="margin-bottom: 20px;" >
-
-            <div class="card">
-    
-        <img class="rounded img-fluid mx-auto image" src="../assets/img/chem.jpg"  style="height:600px; weight:500px;"/>
-        <div class="middle">
-            <div class="text rounded">
-            Biology Laboratory
-            </div>
-            
-        </div>
-
-</div>
-</div>
-
-<div class="col-sm-12 col-md-6"  >
-
-            <div class="card">
-    
-        <img class="rounded img-fluid mx-auto image" src="../assets/img/physicslab.jpg"  style="height:450px; weight:500px;"/>
-        <div class="middle">
-            <div class="text rounded">
-            Physics Laboratory
-            </div>
-            
-        </div>
-
-</div>
-</div>
-         
-<div class="col-sm-12 col-md-6"  style="margin-bottom: 20px;" >
-
-<div class="card">
-
-<img class="rounded img-fluid mx-auto image" src="../assets/img/fineart.jpg"  style="height:600px; weight:500px;"/>
-<div class="middle">
-<div class="text rounded">
-Fine Arts Laboratory
-</div>
-
-</div>
-
-</div>
-</div>
-
-<div class="col-sm-12 col-md-6" >
+                <div class="col-sm-12 col-md-6" style="margin-bottom: 30px;">
 
             <div class="card">
     
@@ -342,7 +236,7 @@ Fine Arts Laboratory
 </div>
 </div>
 
-<div class="col-sm-12 col-md-6"  >
+<div class="col-sm-12 col-md-6">
 
             <div class="card">
     
@@ -357,7 +251,7 @@ Fine Arts Laboratory
 </div>
 </div>
 
-<div class="col-sm-12 col-md-6"  >
+<div class="col-sm-12 col-md-6" style="margin-bottom: 30px;">
 
             <div class="card">
     
@@ -368,6 +262,112 @@ Fine Arts Laboratory
             </div>
             
         </div>
+
+</div>
+</div>
+
+                <div class="col-sm-12 col-md-6">
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/facility7.png"  style="height:450px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Security Post
+            </div>
+            
+        </div>
+
+</div>
+</div>
+
+
+<div class="col-sm-12 col-md-6" style="margin-bottom: 30px;">
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/library.jpg"  style="height:450px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Library
+            </div>
+            
+        </div>
+
+</div>
+</div>
+        
+<div class="col-sm-12 col-md-6">
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/physicslab.jpg"  style="height:450px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Physics Laboratory
+            </div>
+            
+        </div>
+
+</div>
+</div>
+         
+<div class="col-sm-12 col-md-6"  style="margin-bottom: 30px;">
+
+<div class="card">
+
+<img class="rounded img-fluid mx-auto image" src="../assets/img/lab.jpg"  style="height:600px; weight:500px;"/>
+<div class="middle">
+<div class="text rounded">
+Chemistry Laboratory
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="col-sm-12 col-md-6">
+
+            <div class="card">
+    
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/chem.jpg"  style="height:600px; weight:500px;"/>
+        <div class="middle">
+            <div class="text rounded">
+            Biology Laboratory
+            </div>
+            
+        </div>
+
+</div>
+</div>
+         
+<div class="col-sm-12 col-md-6"  style="margin-bottom: 30px;">
+
+<div class="card">
+
+<img class="rounded img-fluid mx-auto image" src="../assets/img/fineart.jpg"  style="height:600px; weight:500px;"/>
+<div class="middle">
+<div class="text rounded">
+Fine Arts Laboratory
+</div>
+
+</div>
+
+</div>
+</div>
+
+<div class="col-sm-12 col-md-6">
+
+<div class="card">
+
+<img class="rounded img-fluid mx-auto image" src="../assets/img/Dorm.jpg"  style="height:600px; weight:500px;"/>
+<div class="middle">
+<div class="text rounded">
+Dormitory
+</div>
+
+</div>
 
 </div>
 </div>
