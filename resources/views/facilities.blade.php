@@ -16,7 +16,7 @@ Bootstrap 4 breakpoints
 @media (min-width: 444px) {  
     #banner{
         width: 100%; 
-        height: 250px; 
+        height: 200px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
@@ -33,7 +33,7 @@ Bootstrap 4 breakpoints
   @media (min-width: 768px) {  
       #banner{
         width: 100%; 
-        height: 300px; 
+        height: 200px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
@@ -49,7 +49,7 @@ Bootstrap 4 breakpoints
   @media (min-width: 1000px) { 
     #banner{
         width: 100%; 
-        height: 350px; 
+        height: 300px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }

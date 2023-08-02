@@ -17,13 +17,14 @@ Bootstrap 4 breakpoints
 @media (min-width: 444px) {  
     #banner{
         width: 100%; 
-        height: 350px; 
+        height: 280px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
       #banner_left{
-        margin-left: 10%; 
-        margin-top: 10%;
+        margin-left: 5%; 
+        margin-top: 5%;
+        
       }
      
      
@@ -34,13 +35,14 @@ Bootstrap 4 breakpoints
   @media (min-width: 768px) {  
       #banner{
         width: 100%; 
-        height: 400px; 
+        height: 450px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
       #banner_left{
-        margin-left: 20%; 
-        margin-top: 20%;
+        margin-left: 10%; 
+        margin-top: 10%;
+        
       }
      
    
@@ -55,18 +57,31 @@ Bootstrap 4 breakpoints
         background-size: 100%;
       }
       #banner_left{
-        margin-left: 20%; 
-        margin-top: 20%;
+        margin-left: 12%; 
+        margin-top: 12%;
+       
       }
      
   }
    
   /* Extra large devices (large desktops, 1200px and up) */
-  @media (min-width: 1200px) {  
-    h1 {font-size:3rem;} /*1rem = 16px*/    
+  @media (min-width: 1000px) {  
+    h1 {
+        font-size:40px; /*1rem = 16px*/
+    }    
   }
 
+  @media (min-width: 768px) {  
+    h1 {
+        font-size:22px; /*1rem = 16px*/
+    }    
+  }
 
+  @media (min-width: 544px) {  
+    h1 {
+        font-size:16px; /*1rem = 16px*/
+    }    
+  }
 
   
   
@@ -178,13 +193,13 @@ Thank you for taking the time to visit our website. If you have any questions or
                     <div class="carousel-item active">
                         <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/about.png');">
                             <div class="row">
-                                 <div class="col-sm-12 col-md-6">
+                                 <div class="col-9">
                                      <div id="banner_left"> 
-                         <h1 class = "text-warning" style="color:red; font-family: monospace;  font-style:opaque; font-weight:Bold; font-size:50px;">
+                         <h1 class = "display-6" style="color:wheat; font-family: monospace;  font-style:opaque; font-weight:Bold;">
                             WELCOME TO </h1>
-                           <h1 style = "color:white; font-family: monospace;  font-style:opaque; font-weight:Bold;"> SANKT GEORG INTERNATIONAL SCHOOL
+                           <h1 class = "display-6" style = "color:white; font-family: monospace;  font-style:opaque; font-weight:Bold;"> SANKT GEORG INTERNATIONAL SCHOOL
                         </h1>
-                        <h4 style="color:wheat; font-weight:bold;"> Where your child education is our priority</h4>
+                        <h5 style="color:wheat; font-weight:bold;"> Where your child education is our priority</h5>
                       
                                     </div>
                                </div>
@@ -196,12 +211,12 @@ Thank you for taking the time to visit our website. If you have any questions or
                    
                         <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('../assets/img/p1.jpg');"> 
                             <div class="row">
-                                <div class="col-sm-12 col-md-6">
+                                <div class="col-9">
                                     <div id="banner_left">
-                        <h1 style="color: white; font-family: monospace;  font-style:normal;">
+                        <h1 class = "display-6" style="color: white; font-family: monospace;  font-style:normal;">
                            <b> Empowering <br> Children to Believe in Themselves.</b>
                         </h1>
-                        <h4 style="color:wheat;"> <b>We bring the best in them and make sure they are outstanding.</b></h4>
+                        <h5 style="color:wheat;"> <b>We bring the best in them and make sure they are outstanding.</b></h5>
                         <button onclick="visit()" class="btn btn-warning btn-sm rounded-pill">Book a Visit</button>
                                     </div>
                                 </div>
@@ -212,11 +227,11 @@ Thank you for taking the time to visit our website. If you have any questions or
                     <div class="carousel-item">
                         <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/nur.jpg');">
                             <div class="row">
-                                 <div class="col-sm-12 col-md-6">
+                                 <div class="col-9">
                                      <div id="banner_left"> 
-                           <h1 style = "color:white; font-family: monospace;  font-style:normal"> <b>OUR KIDS IN <br> NURSERY SECTION </b>
+                           <h1 class = "display-6" style = "color:white; font-family: monospace;  font-style:normal"> <b>OUR KIDS IN <br> NURSERY SECTION </b>
                         </h1>
-                        <h4 style="color:wheat; font-weight:bold;"> Learning in their classroom</h4>
+                        <h5 style="color:wheat; font-weight:bold;"> Learning in their classroom</h5>
 
                                     </div>
                                </div>
@@ -227,11 +242,11 @@ Thank you for taking the time to visit our website. If you have any questions or
                     <div class="carousel-item">
                         <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/pri.jpg');">
                             <div class="row">
-                                 <div class="col-sm-12 col-md-6">
+                                 <div class="col-9">
                                      <div id="banner_left"> 
-                                     <h1 style = "color:white; font-family: monospace;  font-style:normal"> <b>PRIMARY SECTION OF </b>
+                                     <h1 class = "display-6" style = "color:white; font-family: monospace;  font-style:normal"> <b>PRIMARY SECTION OF </b>
                         </h1>
-                        <h4 style="color:wheat; font-weight:bold;"> SANKT GEORG INTERNATIONAL SCHOOL</h4>
+                        <h5 style="color:wheat; font-weight:bold;"> SANKT GEORG INTERNATIONAL SCHOOL</h5>
                                     </div>
                                </div>
                            </div>
@@ -241,11 +256,11 @@ Thank you for taking the time to visit our website. If you have any questions or
                     <div class="carousel-item">
                         <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/p2.jpg');">
                             <div class="row">
-                                 <div class="col-sm-12 col-md-6">
+                                 <div class="col-9">
                                      <div id="banner_left"> 
-                                     <h1 style = "color:white; font-family: monospace;  font-style:normal"> <b>STUDENTS IN THE <br> SECONDARY SECTION </b>
+                                     <h1 class = "display-6" style = "color:white; font-family: monospace;  font-style:normal"> <b>STUDENTS IN THE </br> SECONDARY SECTION </b>
                         </h1>
-                        <h4 style="color:wheat; font-weight:bold;"> LEARNING IN THEIR CLASSROOM </br> AT SANK GEORG INTERNATIONAL SCHOOL</h4>
+                        <h5 style="color:wheat; font-weight:bold;"> LEARNING IN THEIR CLASSROOM </br> AT SANK GEORG INTERNATIONAL SCHOOL</h5>
                       
                                     </div>
                                </div>
@@ -585,12 +600,12 @@ Thank you for taking the time to visit our website. If you have any questions or
 
 <!-- About Principal of School -->
 <div class="row">
-    <div class="container=fluid">
+    <div class="container-fluid">
         <div class="col-12">
             <div class="row">
-            <div class="col-sm-12 col-md-6" style="margin-top: 40px; Margin-bottom:30px; border-right: 5px solid; border-right-color:#FFE5B4;" >
-                    <div class="container card" style = "width:500px; height:600px;">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:500px; height:600px;" />
+            <div class="col-sm-12 col-md-5" style="margin-top: 40px; Margin-bottom:30px; border-right: 5px solid; border-right-color:#FFE5B4;" >
+                    <div class="container card" style = "width:400px; height:500px;">
+                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:400px; height:500px;" />
                         <div class="middle">
                             <div class="text rounded">
                             Rev. Fr. Collins Anoka
@@ -604,7 +619,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                     
 
             <div class="col-sm-12 col-md-6" style="margin-top: 40px;">
-                    <div  style="padding-left: 40px; padding-right: 20px; padding-bottom: 25px;">
+                    <div  style="padding-left: 50px; padding-right: 20px; padding-bottom: 25px;">
                         
                         <h5 style = "color:#4A0404; font-weight: Bold; text-align:center;">Our Staff</h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">

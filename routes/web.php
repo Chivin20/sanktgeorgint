@@ -53,6 +53,18 @@ Route::get('/secondary', function () {
     return view('secondary');
 })->name('secondary');
 
+Route::get('/priviewcalendarfirst', function () {
+    return view('priviewcalendarfirst');
+})->name('priviewcalendarfirst');
+
+Route::get('/secviewcalendarfirst', function () {
+    return view('secviewcalendarfirst');
+})->name('secviewcalendarfirst');
+
+Route::get('/parviewcalendarfirst', function () {
+    return view('parviewcalendarfirst');
+})->name('parviewcalendarfirst');
+
 Route::get('/priviewcalendarthird', function () {
     return view('priviewcalendarthird');
 })->name('priviewcalendarthird');

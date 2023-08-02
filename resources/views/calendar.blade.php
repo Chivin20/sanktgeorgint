@@ -124,10 +124,10 @@
                                     <button class="btn btn-primary rounded-pill dropdown-toggle"  type="button" id = "dropdownMenu" data-bs-toggle="dropdown" aria-expanded="false">View Calendar
                                     <span class="caret"></span> </button>
 
-                                        <ul class="dropdown-menu" aria-labelledby = "dropdownMenu">
-                                            <li><a class = "dropdown-item" href="#">Nursery and Primary Section</a></li>
-                                            <li><a class = "dropdown-item" href="#">Secondary Section</a></li>
-                                            <li><a class = "dropdown-item" href="#">Parents' Calendar</a></li>
+                                    <ul class="dropdown-menu" aria-labelledby = "dropdownMenu">
+                                            <li><a class = "dropdown-item" href= "{{route('priviewcalendarfirst')}}" routerLink="/priviewcalendarfirst" routerLinkActive="active">Nursery and Primary Section</a></li>
+                                            <li><a class = "dropdown-item" href="{{route('secviewcalendarfirst')}}" routerLink="/secviewcalendarfirst" routerLinkActive="active">Secondary Section</a></li>
+                                            <li><a class = "dropdown-item" href="{{route('parviewcalendarfirst')}}" routerLink="/parviewcalendarfirst" routerLinkActive="active">Parents' Calendar</a></li>
                                         </ul>
                                 </div> 
                             </div>
