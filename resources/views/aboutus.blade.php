@@ -43,7 +43,7 @@
 </style>
 <div class="row">
     <div class="container">
-        <div class="col-6" style="font-family: 'Quicksand', sans-serif;">
+        <div class="col-8" style="font-family: 'Quicksand', sans-serif;">
             <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 40px;"><b>ABOUT US</b></h1>
         </div>
     </div>
@@ -54,13 +54,12 @@
     <div class="container-fluid">
         <div class="col-12" >
             <div class="row">
-                <div class="col-sm-12 col-md-6"  style=" margin-top: 50px;">
-                   
-                   <img class="rounded img-fluid float-end" src="{{url('/assets/img/cover.png')}}" style = "width:640px; margin-bottom:20px;" />
+            <div class="col-sm-12 col-md-6"  style=" margin-top: 50px; border-right: 5px solid; border-right-color:#FFE5B4; padding-left:20px;">
+                   <img class="rounded img-fluid float-start" src="../assets/img/cover.png" width="650px" />
                 </div>
 
-                <div class="col-sm-12 col-md-6" style="margin-top: 50px;border-left: 5px solid; border-left-color:#FFE5B4;">
-                    <div style="padding-left: 20px; padding-right: 40px;">
+                <div class="col-sm-12 col-md-6" style="margin-top: 45px;">
+                <div class="text-center" style="padding-left: 40px; padding-right: 20px;">
                       
                         <h3 style="color:#4A0404; text-align:center;"><b>Sankt Georg International School</b></h3>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
@@ -82,11 +81,11 @@
     </div>
 </div>
 
-<div class="row" style = "background-color:#FFFEFA;">
+<div class="row" style = "background-color:#FFFEFA; margin-top: 40px; margin-bottom:20px;">
     <div class="container-fluid">
         <div class="col-12" >
             <div class="row">
-                <div class="col-sm-12 col-md-6" style="margin-top: 50px; margin-bottom:20px; border-right: 5px solid; border-right-color:#FFE5B4;">
+                <div class="col-sm-12 col-md-6" style="border-right: 5px solid; border-right-color:#FFE5B4; margin-bottom:20px;">
                     <div class="text-center" style="padding-left: 40px; padding-right: 20px;">
                         <h2 style="color:#4A0404;"><b>Our Vision</b> </h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
@@ -101,13 +100,14 @@
                         <h2 style="color:#4A0404;"><b>Our Mission </b> </h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         To inspire and motivate our students, through the establishment of adequate behavioural support, to meet the moral, 
-                        economic academic, sociocultural, 
+                        economic, academic, sociocultural, 
                         and emotional challenges of our time.
                         </p>
                     </div>
                 </div>
-                <div class="col-sm-12 col-md-6">
-                <iframe width="560" height="315" src="https://www.youtube.com/watch?v=avPeagYhbgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+                <div class="col-sm-12 col-md-6" style = "padding-left:20px; padding-right:20px; margin-bottom:20px;">
+                  <div class="container card" style = "width:100%; height:450px; ">>
+                <iframe  height="450px" src="https://www.youtube.com/watch?v=avPeagYhbgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
                 <!--
                 <video width="640" height="420" controls> 
                    <source src="https://www.youtube.com/watch?v=avPeagYhbgo">

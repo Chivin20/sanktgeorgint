@@ -47,30 +47,22 @@
 <div class="row">
     <div class="container">
         <div class="col-6" style="font-family: 'Quicksand', sans-serif;">
-            <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 40px;"><b>ADMINISTRATION</b></h1>
+            <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 37px;"><b>ADMINISTRATION</b></h1>
         </div>
     </div>
 </div>
 <!-- About Principal of School -->
-<div class="row">
+<div class="row" style = "margin-top: 40px; margin-bottom:20px;">>
     <div class="container">
-        <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
+        <div class="col-12">
             <div class="row">
-                <div class="col-sm-12 col-md-5">
-                    <div class="container card" style = "width:500px; height:600px;">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:500px; height:600px;" />
-                        <div class="middle">
-                            <div class="text rounded">
-                            Rev. Fr. Collins Anoka
-                                <p>School Administrator</p>
-                            </div>
-                            
-                          </div>
-                    </div>
+
+            <div class="col-sm-12 col-md-6"  style="border-right: 5px solid; border-right-color:#FFE5B4; padding-left:30px; padding-right:20px;">
+                   <img class="rounded img-fluid float-start" src="../assets/img/schoolproprietor2.jpg" width="600px" />
                 </div>
 
-                <div class="col-sm-12 col-md-7">
-                    <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
+                <div class="col-sm-12 col-md-6">
+                    <div style="padding-left: 20px; padding-right: 30px; font-size: 16px;margin-top:20px;">
                         
                         <h3 class="text-danger"><b>SCHOOL ADMINISTRATION</b></h3>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
@@ -94,7 +86,7 @@
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The office of the school administrator plays a crucial role in coordinating various 
                         administrative tasks. It oversees and manages day-to-day operations, handles logistics, ensures compliance 
-                        with regulations, and provide support to both staff, pupils and students.         
+                        with regulations, and provides support to both staff, pupils and students.         
                         </p>
 
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Section Heads: </b></h5>  
@@ -107,8 +99,8 @@
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>School Bursar:</b></h5>  
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The office of the school Bursar oversees the overall financial administration of the school. 
-                        She is responsible for budget management, resource allocation, facility maintenance, and strategic 
-                        planning to enhance the school's performance. If functions in collaboration with the school management board.          
+                        The Bursar is responsible for budget management, resource allocation, facility maintenance, and strategic 
+                        planning to enhance the school's performance. It functions in collaboration with the school management board.          
                         </p>
 
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Hostel Administrators:</b></h5>  
@@ -137,14 +129,14 @@
                 </div>
             </div>
         </div>
-        <div class="col-12">
-                    <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
+        <div class="row" style = "background-color:#FFFEFA; margin-top:20px; padding-left: 20px; padding-right: 30px; font-size: 16px;">
+            <div class = "col-12">     
         <h3 class="text-danger"><b>Staff Members</b></h3>
         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Teachers:</b></h5>         
                         
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The teaching staff are responsible for delivering high-quality education to students. 
-                        They plan and conduct lessons, assess student progress, provide guidance and support, 
+                        They plan and conduct lessons, assess students' progress, provide guidance and support, 
                         and collaborate with colleagues and administrators to ensure effective teaching and learning.                   
                         </p>
 
@@ -174,7 +166,7 @@
                         maintain food hygiene standards, cater to dietary requirements, and ensure a healthy and pleasant dining experience for students and staff.                   
                         </p>
                         </div>
-                        </div>
+                        
     </div>
 </div>
 <!-- end of about Principal of School-->
@@ -183,7 +175,7 @@
 
 
 <div class="row">
-    <div class="container" style="font-family: 'Quicksand', sans-serif; margin-left: 20px; margin-top: 50px;">
+    <div class="container" style="font-family: 'Quicksand', sans-serif; margin-left: 20px; margin-top: 40px;">
             <h2 class="text-danger" style="padding-left:40px; font-size:35px;"><b>School Managment Team</b></h2>
     </div>
 </div>
@@ -191,9 +183,9 @@
 <!-- About Principal of School -->
 <div class="row">
     <div class="container-fluid">
-        <div class="col-12" style="margin-top: 20px; margin-bottom: 20px;" >
+        <div class="col-12" style="margin-top: 20px; margin-bottom: 20px; margin-right:10px; margin-left:10px;" >
             <div class="row d-flex flex-row">
-            <div class="col-sm-12 col-md-3"  >
+            <div class="col-sm-12 col-md-3">
 
 <div class="card">
     
@@ -375,11 +367,11 @@
     </div>
 </div> 
 
- <div class="row">
+<div class="row">
     <div class="container-fluid">
-        <div class="col-12" style="margin-top: 20px; margin-bottom: 20px;" >
-          
+        <div class="col-12" style="margin-top: 20px; margin-bottom:20px; margin-right:10px; margin-left:10px;" >
             <div class="row d-flex flex-row">
+
                 <div class="col-sm-12 col-md-3"  >
 
                     <div class="card">
@@ -568,6 +560,6 @@
             </div>
         </div>
     </div>
-</div> -->
+</div>
 <!-- end of about Principal of School-->
 @endsection

@@ -122,11 +122,11 @@ Bootstrap 4 breakpoints
         <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
             <div class="row">
 
-            <div class="col-sm-12 col-md-6"  >
+            <div class="col-sm-12 col-md-6"  style="margin-bottom: 30px;">
 
 <div class="card">
     
-        <img class="rounded img-fluid mx-auto image" src="../assets/img/cover.png" style="height:450px; weight:500px; margin-bottom:30px;" />
+        <img class="rounded img-fluid mx-auto image" src="../assets/img/cover.png" style="height:450px; weight:500px;" />
         <div class="middle">
             <div class="text rounded">
                 School Building
@@ -141,11 +141,11 @@ Bootstrap 4 breakpoints
 </div>
 
 
-                <div class="col-sm-12 col-md-6"  >
+                <div class="col-sm-12 col-md-6"  style="margin-bottom: 30px;">
 
                     <div class="card">
                         
-                            <img class="rounded img-fluid mx-auto image" src="../assets/img/facility6.png" style="height:450px; weight:500px; margin-bottom:30px;" />
+                            <img class="rounded img-fluid mx-auto image" src="../assets/img/facility6.png" style="height:450px; weight:500px;" />
                             <div class="middle">
                                 <div class="text rounded">
                                 Multipurpose Hall
@@ -174,7 +174,7 @@ Bootstrap 4 breakpoints
                 </div>
 
 
-                <div class="col-sm-12 col-md-6">
+                <div class="col-sm-12 col-md-6" style="margin-bottom: 30px;">
 
                     <div class="card">
                         
@@ -206,7 +206,7 @@ Bootstrap 4 breakpoints
                     </div>
                 </div>
 
-                <div class="col-sm-12 col-md-6">
+                <div class="col-sm-12 col-md-6" style="margin-bottom: 30px;">
 
                     <div class="card">
                         
@@ -236,7 +236,7 @@ Bootstrap 4 breakpoints
 </div>
 </div>
 
-<div class="col-sm-12 col-md-6">
+<div class="col-sm-12 col-md-6" style="margin-bottom: 30px;">
 
             <div class="card">
     
@@ -266,7 +266,7 @@ Bootstrap 4 breakpoints
 </div>
 </div>
 
-                <div class="col-sm-12 col-md-6">
+                <div class="col-sm-12 col-md-6" style="margin-bottom: 30px;">
 
             <div class="card">
     
@@ -297,7 +297,7 @@ Bootstrap 4 breakpoints
 </div>
 </div>
         
-<div class="col-sm-12 col-md-6">
+<div class="col-sm-12 col-md-6" style="margin-bottom: 30px;">
 
             <div class="card">
     
@@ -327,7 +327,7 @@ Chemistry Laboratory
 </div>
 </div>
 
-<div class="col-sm-12 col-md-6">
+<div class="col-sm-12 col-md-6" style="margin-bottom: 30px;">
 
             <div class="card">
     
@@ -357,7 +357,7 @@ Fine Arts Laboratory
 </div>
 </div>
 
-<div class="col-sm-12 col-md-6">
+<div class="col-sm-12 col-md-6" style="margin-bottom: 30px;">
 
 <div class="card">
 

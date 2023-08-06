@@ -110,7 +110,7 @@ Bootstrap 4 breakpoints
 
 <div class="row">
     <div class="container">
-        <div class="col-6" style="font-family: 'Quicksand', sans-serif;">
+        <div class="col-6" style="font-family: 'Quicksand', sans-serif; padding-left:20px;">
             <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 40px;"><b>STUDENT'S LIFE </b></h1>
         </div>
     </div>
@@ -119,12 +119,13 @@ Bootstrap 4 breakpoints
 
 <!-- About Principal of School -->
 <div class="row">
-    <div class="container">
+    <div class="container-fluid">
         <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
             <div class="row">
                 
-                <div class="col-sm-12 col-md-6">
-                <iframe width="560" height="315" src="https://www.youtube.com/watch?v=avPeagYhbgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+                <div class="col-sm-12 col-md-6" style = "padding-left:20px; padding-right:20px;">
+                  <div class="container card" style = "width:100%; height:450px; margin-bottom:20px; ">
+                <iframe id = "map-iframe" height="450px" src="https://www.youtube.com/watch?v=avPeagYhbgo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
                 <!--
                 <video width="640" height="420" controls> 
                    <source src="https://www.youtube.com/watch?v=avPeagYhbgo">
@@ -135,8 +136,9 @@ Bootstrap 4 breakpoints
                    -->
                 
                 </div>
+                </div>
 
-                <div class="col-sm-12 col-md-5">
+                <div class="col-sm-12 col-md-6">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 16px; text-align: justify;">
                         
                         <h3 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;"><b>School Anthem</b></h3>
@@ -197,7 +199,7 @@ Bootstrap 4 breakpoints
                   In our boarding houses (Halls of Residence), we created a special and welcoming atmosphere for our students, 
                   so that they can feel at home. Boarding at Sankt Georg International School offers the experience of being part of a friendly, 
                   close-knit school community. We encourage our pupils to be independent and self-reliant. We have two Rev. Sisters, a young and vibrant mother, 
-                  and a responsible young man who are serving as Matrons in our Halls of Residence. These provide individual attention and encourage participation and collaboration among the students. 
+                  and a responsible young man who are serving as Matrons and Patron in our Halls of Residence. These provide individual attention and encourage participation and collaboration among the students. 
                   Our rooms are spacious and well-ventilated with adequate restrooms and sanitary facilities. Each student is allocated their wardrobe to organize their uniform and clothes.  <br />
                   </br>
                         Our well-furnished common rooms are open and equipped with satellite television and many indoor games for students during their free time. 

@@ -30,10 +30,10 @@
                 </div>
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-3">
+                        <div class="col-4">
                             <h6>Thursday 7th September, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-8">
                             
                             <p>Staff Resumption, In- house seminar Submission of lesson notes and CAT1 and 2</p>
                     </div>

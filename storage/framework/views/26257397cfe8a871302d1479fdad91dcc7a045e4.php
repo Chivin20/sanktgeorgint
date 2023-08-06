@@ -14,20 +14,21 @@
 Bootstrap 4 breakpoints
 */
 /* Small devices (landscape phones, 544px and up) */
-@media (min-width: 444px) {  
+@media (min-width: 300px) {  
     #banner{
         width: 100%; 
-        height: 280px; 
+        height: 200px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
       #banner_left{
-        margin-left: 5%; 
-        margin-top: 5%;
-        
+        margin-left: 7%; 
+        margin-top: 7%;
+        font-size: 13px;
       }
-     
-     
+      .banner_write{
+        font-size:16px;
+      }
   
   }
    
@@ -42,9 +43,12 @@ Bootstrap 4 breakpoints
       #banner_left{
         margin-left: 10%; 
         margin-top: 10%;
-        
+        font-size: 20px;
       }
-     
+
+      .banner_write{
+        font-size:30px;
+      }
    
   }
    
@@ -59,10 +63,16 @@ Bootstrap 4 breakpoints
       #banner_left{
         margin-left: 12%; 
         margin-top: 12%;
-       
+        font-size: 25px;
+      }
+
+      .banner_write{
+        font-size:40px;
       }
      
   }
+  
+  
    
   /* Extra large devices (large desktops, 1200px and up) */
   @media (min-width: 1000px) {  
@@ -193,13 +203,13 @@ Thank you for taking the time to visit our website. If you have any questions or
                     <div class="carousel-item active">
                         <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/about.png');">
                             <div class="row">
-                                 <div class="col-9">
+                                 <div class="col-8" style = "margin-top: 5px;">
                                      <div id="banner_left"> 
-                         <h1 class = "display-6" style="color:wheat; font-family: monospace;  font-style:opaque; font-weight:Bold;">
+                         <h1 class = "banner_write" style="color:wheat; font-family: monospace;  font-style:opaque; font-weight:Bold;">
                             WELCOME TO </h1>
-                           <h1 class = "display-6" style = "color:white; font-family: monospace;  font-style:opaque; font-weight:Bold;"> SANKT GEORG INTERNATIONAL SCHOOL
-                        </h1>
-                        <h5 style="color:wheat; font-weight:bold;"> Where your child education is our priority</h5>
+                            <h1 class = "banner_write" style="color:white; font-family: monospace;  font-style:opaque; font-weight:Bold;">
+                             SANKT GEORG INTERNATIONAL SCHOOL</h1>
+                        <p  style="color:wheat; font-weight:bold;"> Where your child's education is our priority</p>
                       
                                     </div>
                                </div>
@@ -211,12 +221,12 @@ Thank you for taking the time to visit our website. If you have any questions or
                    
                         <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)),url('../assets/img/p1.jpg');"> 
                             <div class="row">
-                                <div class="col-9">
+                                <div class="col-8">
                                     <div id="banner_left">
-                        <h1 class = "display-6" style="color: white; font-family: monospace;  font-style:normal;">
+                        <h1 class = "banner_write" style="color: white; font-family: monospace;  font-style:normal;">
                            <b> Empowering <br> Children to Believe in Themselves.</b>
                         </h1>
-                        <h5 style="color:wheat;"> <b>We bring the best in them and make sure they are outstanding.</b></h5>
+                        <p style="color:wheat;"> <b>We bring out the best in them and make sure they are outstanding.</b></p>
                         <button onclick="visit()" class="btn btn-warning btn-sm rounded-pill">Book a Visit</button>
                                     </div>
                                 </div>
@@ -227,11 +237,11 @@ Thank you for taking the time to visit our website. If you have any questions or
                     <div class="carousel-item">
                         <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/nur.jpg');">
                             <div class="row">
-                                 <div class="col-9">
+                                 <div class="col-8" style = "margin-top: 15px;">
                                      <div id="banner_left"> 
-                           <h1 class = "display-6" style = "color:white; font-family: monospace;  font-style:normal"> <b>OUR KIDS IN <br> NURSERY SECTION </b>
+                           <h1 class = "banner_write" style = "color:white; font-family: monospace;  font-style:normal"> <b>OUR KIDS IN <br> NURSERY SECTION </b>
                         </h1>
-                        <h5 style="color:wheat; font-weight:bold;"> Learning in their classroom</h5>
+                        <p style="color:wheat; font-weight:bold;"> LEARNING IN THEIR CLASSROOM</p>
 
                                     </div>
                                </div>
@@ -242,11 +252,11 @@ Thank you for taking the time to visit our website. If you have any questions or
                     <div class="carousel-item">
                         <div class="col-12" id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/pri.jpg');">
                             <div class="row">
-                                 <div class="col-9">
+                                 <div class="col-8" style = "margin-top: 15px;">
                                      <div id="banner_left"> 
-                                     <h1 class = "display-6" style = "color:white; font-family: monospace;  font-style:normal"> <b>PRIMARY SECTION OF </b>
+                                     <h1 class = "banner_write" style = "color:white; font-family: monospace;  font-style:normal"> <b>PRIMARY SECTION OF </b>
                         </h1>
-                        <h5 style="color:wheat; font-weight:bold;"> SANKT GEORG INTERNATIONAL SCHOOL</h5>
+                        <p style="color:wheat; font-weight:bold;"> SANKT GEORG INTERNATIONAL SCHOOL</p>
                                     </div>
                                </div>
                            </div>
@@ -258,9 +268,10 @@ Thank you for taking the time to visit our website. If you have any questions or
                             <div class="row">
                                  <div class="col-9">
                                      <div id="banner_left"> 
-                                     <h1 class = "display-6" style = "color:white; font-family: monospace;  font-style:normal"> <b>STUDENTS IN THE </br> SECONDARY SECTION </b>
+                                     <h1 class = "banner_write" style = "color:white; font-family: monospace;  font-style:normal"> <b>STUDENTS IN THE </br> SECONDARY SECTION </b>
                         </h1>
-                        <h5 style="color:wheat; font-weight:bold;"> LEARNING IN THEIR CLASSROOM </br> AT SANK GEORG INTERNATIONAL SCHOOL</h5>
+                        <p style="color:wheat; font-weight:bold;"> LEARNING IN THEIR CLASSROOM </br> 
+                        AT SANKT GEORG INTERNATIONAL SCHOOL</p>
                       
                                     </div>
                                </div>
@@ -314,9 +325,9 @@ Thank you for taking the time to visit our website. If you have any questions or
                 </div>
 
                 <div class="col-sm-12 col-md-6" style="margin-top: 50px;border-left: 5px solid; border-left-color:#FFE5B4;">
-                    <div style="padding-left: 40px; padding-right: 20px;">
-                        <h3 class = " text-danger" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: 30px;"><b>About Sankt Georg International School</b></h3>
-                        <h3 style="color:#4A0404; text-align:center;"><b>Sankt Georg International School</b></h3>
+                    <div style="padding-left: 15px; padding-right: 10px;">
+                        
+                        <h3 style="color:#4A0404; text-align:center;"><b>About Sankt Georg International School</b></h3>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         Sankt Georg International School (SGIS) Avu, Owerri West Local Government Area, Imo State, Nigeria, 
                         is a co-educational School owned by Echidime Hope For Future Foundation Nigeria, 
@@ -428,7 +439,7 @@ Thank you for taking the time to visit our website. If you have any questions or
         <div class="col-12" >
             <div class="row">
 
-                <div class="col-sm-12 col-md-6" style="margin-top: 100px;border-right: 5px solid; border-right-color:#FFE5B4;">
+                <div class="col-sm-12 col-md-6" style="margin-top: 50px;border-right: 5px solid; border-right-color:#FFE5B4;">
                     <div style="padding-left: 40px; padding-right: 20px;">
                         <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;"><b>Sankt Georg International School</b></h2> 
                         <h2 style="color:#4A0404; font-family: 'Quicksand', sans-serif; text-align:center;"><b>(Nursery and Primary Section)</b></h2>
@@ -451,7 +462,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                     </div>
                 </div>
                 
-                <div class="col-sm-12 col-md-6"  style=" margin-top: 100px;">
+                <div class="col-sm-12 col-md-6"  style=" margin-top: 50px;">
                    
                    <img class="rounded img-fluid float-end" src="../assets/img/pri.jpg" width="800px" />
                 </div>
@@ -468,14 +479,14 @@ Thank you for taking the time to visit our website. If you have any questions or
     <div class="container-fluid">
         <div class="col-12" >
             <div class="row">
-                <div class="col-sm-12 col-md-6" style="margin-top: 100px; margin-bottom: 20px; border-right: 5px solid; border-right-color:#FFE5B4;">
+                <div class="col-sm-12 col-md-6" style="margin-top: 50px; margin-bottom: 20px; border-right: 5px solid; border-right-color:#FFE5B4;">
                     <div  style="padding-left: 40px; padding-right: 20px; padding-bottom: 25px;">
                         <h2 style="color:#4A0404; text-align:center;"><b>Sankt Georg International School </b></h2>
                         <h2 style="color:#4A0404; text-align:center;"><b>(Secondary Section)</b></h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         At Sankt Georg International School (Secondary Section), academic excellence is the top priority. The school offers a rigorous and comprehensive curriculum that challenges students to reach their full potential. 
                         The teachers are highly qualified and experienced, 
-                        providing students with individualized attention and guidance that helps them to achieve their academic goals.
+                        providing students with individualized attention and guidance that help them to achieve their academic goals.
                         
                         <br /><br />
                         The school also offers various extracurricular activities, from sports to clubs and community service programs. 
@@ -484,7 +495,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                         Another critical feature of the Secondary Section is its modern facilities. The school's campus is spacious and well-equipped, 
                         with state-of-the-art classrooms, science labs, computer rooms, and sports facilities. These resources provide students with the tools they need to learn, explore, and excel in their academic and extracurricular pursuits.
                         <br /><br />
-                        Perhaps most importantly,our Secondary Section has a strong culture of respect, inclusivity, and kindness. 
+                        Perhaps most importantly, our Secondary Section has a strong culture of respect, inclusivity, and kindness. 
                         Students are encouraged to treat each other with empathy and understanding, and the school provides a safe and supportive environment for all students to learn and grow. 
                         This culture is fostered by the school's dedicated faculty and staff, who serve as role models for students and help to create a positive and welcoming school community.
                             
@@ -495,7 +506,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                         </div>
                         </div>
                   
-                <div class="col-sm-12 col-md-6"  style=" margin-top: 100px;">
+                <div class="col-sm-12 col-md-6"  style=" margin-top: 50px;">
                    <img class="rounded img-fluid float-start" src="../assets/img/p2.jpg" width="800px" />
                 </div>
                 </div>               
@@ -548,7 +559,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                         <p style="margin-left: 10%; margin-right: 10%; font-family: 'Quicksand', sans-serif;">
                             I got involved with Sankt Georg International School when my son improved academically after a few weeks of their free summer lesson. <br />
                             I had to pull him out of his previous school to continue at Sankt Georg International School. After the first term here,<br />
-                             he has improved alot both morally and academically
+                             he has improved tremendously both morally and academically
                         </p>
                         <h5><b>DR. MRS. EBE TOCHUKWU</b></h5>
                     </div>
@@ -589,7 +600,7 @@ Thank you for taking the time to visit our website. If you have any questions or
 
 
 <!--  Staff Header-->
-<div class="row" style=" margin-top: 100px;">
+<div class="row" style=" margin-top: 50px;">
     <div class="container-fluid  ">
         <div class="col-12 text-center text-danger" >
             <h1 style = "font-weight:bold;">Meet our Staff</h1>
@@ -599,26 +610,17 @@ Thank you for taking the time to visit our website. If you have any questions or
 <!-- end of Staff Header -->
 
 <!-- About Principal of School -->
-<div class="row">
+<div class="row" style = "margin-top:30px;">
     <div class="container-fluid">
         <div class="col-12">
             <div class="row">
-            <div class="col-sm-12 col-md-5" style="margin-top: 40px; Margin-bottom:30px; border-right: 5px solid; border-right-color:#FFE5B4;" >
-                    <div class="container card" style = "width:400px; height:500px;">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/schoolproprietor.jpg" style = "width:400px; height:500px;" />
-                        <div class="middle">
-                            <div class="text rounded">
-                            Rev. Fr. Collins Anoka
-                                <p>School Administrator</p>
-                            </div>
-                            
-                          </div>
-                    </div>
+            <div class="col-sm-12 col-md-6"  style="border-right: 5px solid; border-right-color:#FFE5B4; padding-left:30px; padding-right:20px;">
+                   <img class="rounded img-fluid float-start" src="../assets/img/schoolproprietor2.jpg" width="600px" />
                 </div>
 
                     
 
-            <div class="col-sm-12 col-md-6" style="margin-top: 40px;">
+            <div class="col-sm-12 col-md-6" style="margin-top: 20px;">
                     <div  style="padding-left: 50px; padding-right: 20px; padding-bottom: 25px;">
                         
                         <h5 style = "color:#4A0404; font-weight: Bold; text-align:center;">Our Staff</h5>

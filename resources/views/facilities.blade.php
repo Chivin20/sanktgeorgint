@@ -13,10 +13,10 @@
 Bootstrap 4 breakpoints
 */
 /* Small devices (landscape phones, 544px and up) */
-@media (min-width: 444px) {  
+@media (min-width: 300px) {  
     #banner{
         width: 100%; 
-        height: 200px; 
+        height: 180px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
@@ -33,7 +33,7 @@ Bootstrap 4 breakpoints
   @media (min-width: 768px) {  
       #banner{
         width: 100%; 
-        height: 200px; 
+        height: 230px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
@@ -49,7 +49,7 @@ Bootstrap 4 breakpoints
   @media (min-width: 1000px) { 
     #banner{
         width: 100%; 
-        height: 300px; 
+        height: 400px; 
         background-repeat: no-repeat; 
         background-size: 100%;
       }
@@ -104,6 +104,18 @@ Bootstrap 4 breakpoints
     padding: 16px 32px;
   }
 
+  .carousel-indicators li {
+    background-color: #bbb;
+    border-radius: 50%;
+    width:10px;
+    height:10px;
+    margin:0 2px;
+  }
+
+  .carousel-indicators .active {
+    background-color: red;
+  }
+
 
   
    
@@ -128,7 +140,7 @@ Bootstrap 4 breakpoints
     <div class="container-fluid">
         <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
                 <div class = "row">
-                <div class="col-sm-12 col-md-6"  >
+                <div class="col-sm-12 col-md-6" >
                    <!--  Carousol -->
             <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -136,6 +148,21 @@ Bootstrap 4 breakpoints
                   <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                   <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
                   <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="6"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="7"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="8"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="9"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="10"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="11"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="12"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="13"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="14"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="15"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="16"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="17"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="18"></li>
                 </ol>
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -156,6 +183,81 @@ Bootstrap 4 breakpoints
 
                     <div class="carousel-item">
                     <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/facility5.png');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f1.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f2.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f3.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f4.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f5.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f6.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f7.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f8.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f9.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f10.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f11.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f12.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f13.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f14.jpg');">
+                     
+                    </div>
+
+                    <div class="carousel-item">
+                    <img id="banner" style="background-image:linear-gradient(rgba(0, 0, 0, 0.20),rgba(0, 0, 0, 0.3)), url('../assets/img/f15.jpg');">
                      
                     </div>
                 </div>
@@ -183,6 +285,7 @@ Bootstrap 4 breakpoints
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Art Laboratories</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                          There are separate purpose-built laboratories for Geography and Home Economics subjects.
+                         SGIS equally has a well equipped Fine Arts Studio and Music Studio.
                         </p>
 
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Library</b></h5>
@@ -199,6 +302,7 @@ Bootstrap 4 breakpoints
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Language Laboratory</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The laboratory serves to enable students to learn new languages more effectively by using equipment that monitors their abilities in pronunciation and comprehension.
+                        Languages taught at SGIS include Igbo, English, French and German. The Spanish language will be introduced by September 2024.
                         </p>
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Agriculture</b></h5>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
