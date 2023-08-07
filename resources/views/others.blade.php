@@ -111,7 +111,7 @@ Bootstrap 4 breakpoints
 <div class="row">
     <div class="container">
         <div class="col-6" style="font-family: 'Quicksand', sans-serif; padding-left:20px;">
-            <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 40px;"><b>STUDENT'S LIFE </b></h1>
+            <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 40px;"><b>STUDENTS' LIFE </b></h1>
         </div>
     </div>
 </div>

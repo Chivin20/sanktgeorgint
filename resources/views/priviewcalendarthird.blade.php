@@ -23,7 +23,7 @@
                         <div class="col-3">
                             <h5 style = "font-style:oblique; font-weight:bold;">Dates</h5>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                             <h5 style = "font-style:oblique; font-weight:bold;">Activities</h5>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                         <div class="col-3">
                             <h6>Thursday 27th April, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Staff Resumption / Submission of lesson notes</p>
                     </div>
@@ -44,7 +44,7 @@
                         <div class="col-3">
                             <h6>Monday 1st May, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Workers Day (Holiday)</p>
                         </div>
@@ -57,7 +57,7 @@
                         <div class="col-3">
                             <h6>Tuesday 2nd May, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                           
                             <p>Pupils Resumption </p>
                         </div>
@@ -72,7 +72,7 @@
                         <div class="col-3">
                             <h6>Monday 8th May 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Submission of CAT 1 and CAT 2</p>
 
@@ -86,7 +86,7 @@
                         <div class="col-3">
                             <h6>Monday 15th May 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>CAT 1</p>
 
@@ -100,7 +100,7 @@
                         <div class="col-3">
                             <h6>Monday 22nd May 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Science Activity (making of wind vane and making of liquid soap)</p>
 
@@ -114,7 +114,7 @@
                         <div class="col-3">
                             <h6>Wednesday 24th May 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Home economics Practical (Bead making/Fruit salad)</p>
 
@@ -128,7 +128,7 @@
                         <div class="col-3">
                             <h6>Monday 29th May 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Holiday for Children’s Day (May 27th – Saturday)</p>
 
@@ -142,7 +142,7 @@
                         <div class="col-3">
                             <h6>Monday 5th – Thursday 8th June 2023	</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>CAT 2</p>
 
@@ -155,7 +155,7 @@
                         <div class="col-3">
                             <h6>Friday 9th – Monday 19th June, 2023	</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Open Day / Mid Term Break</p>
 
@@ -169,7 +169,7 @@
                         <div class="col-3">
                             <h6>Monday 3rd July 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Submission of Exam Questions</p>
 
@@ -183,7 +183,7 @@
                         <div class="col-3">
                             <h6>Monday 10th July 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Inter class Maths and English Competition</p>
 
@@ -197,7 +197,7 @@
                         <div class="col-3">
                             <h6>Tuesday 11th – Friday 14th July 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Revision / End of session Party Preparation</p>
 
@@ -211,7 +211,7 @@
                         <div class="col-3">
                             <h6>Monday 17th – Friday 21st July 2023	</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Examination / End of Term Preparation</p>
 
@@ -225,7 +225,7 @@
                         <div class="col-3">
                             <h6>Wesnesday 26th July 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Vacation of Pupils with  Graduation ceremony</p>
 
@@ -239,7 +239,7 @@
                         <div class="col-3">
                             <h6>Friday 28th July 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Teachers Vacation</p>
 

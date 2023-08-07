@@ -23,10 +23,10 @@
                         <div class="col-1">
                             <h5 style = "font-style:oblique; font-weight:bold; color:#4A0404;">Weeks</h5>
                         </div>
-                        <div class="col-4" style = "display:flex; justify-content:center;">
+                        <div class="col-4" style = "padding-left:70px;">
                             <h5 style = "font-style:oblique; font-weight:bold; color:#4A0404;">Periods</h5>
                         </div>
-                        <div class="col-7">
+                        <div class="col-7" style = "padding-left:60px;">
                             <h5 style = "font-style:oblique; font-weight:bold; color:#4A0404;">Activities</h5>
                         </div>
                     </div>
@@ -288,18 +288,18 @@
                 </div>
                 </div>
                     
-                    <div class="col-7" style = "display:flex; justify-content:center; margin-top:10px; margin-bottom:20px;">
+                    <div class="col-8" style = "display:flex; justify-content:center; margin-top:10px; margin-bottom:20px;">
                             
                     <h4 class = "text-danger" style = "font-style:oblique; font-weight:bold;"><b>For Boarders</b></h4>
                     </div>
                 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-4">
-                            <h5 style = "font-style:oblique; font-weight:bold; color:#4A0404;">Dates</h5>
+                        <div class="col-3">
+                            <h5 style = "font-style:oblique; font-weight:bold; color:#3A0404;">Dates</h5>
                         </div>
                         
-                        <div class="col-8">
+                        <div class="col-9" style = "padding-left:40px;">
                             <h5 style = "font-style:oblique; font-weight:bold; color:#4A0404;">Activities</h5>
                         </div>
                     </div>
@@ -307,11 +307,11 @@
 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-4">
+                        <div class="col-3">
                             
                             <h6>7th September, 2023</h6>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Resumption of Staff; </br> 
                             Seminar for Teachers </br>
@@ -322,11 +322,11 @@
 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-4">
+                        <div class="col-3">
                             
                             <h6>10th September, 2023</h6>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Return of Boarders </p>
                     </div>
@@ -335,11 +335,11 @@
 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-4">
+                        <div class="col-3">
                             
                             <h6>2nd October, 2023</h6>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Independence Day (Carry Over)</p>
                     </div>
@@ -348,11 +348,11 @@
 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-4">
+                        <div class="col-3">
                             
                             <h6>8th October, 2023</h6>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Visiting Day</p>
                     </div>
@@ -361,11 +361,11 @@
 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-4">
+                        <div class="col-3">
                             
                             <h6>20th October, 2023</h6>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9" style = "padding-left:40px;">
                             
                             <p>PTA/Open Day/ Mid-Term Break</p>
                     </div>
@@ -374,11 +374,11 @@
 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-4">
+                        <div class="col-3">
                             
                             <h6>29th October, 2023</h6>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Students Return to School</p>
                     </div>
@@ -387,11 +387,11 @@
 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-4">
+                        <div class="col-3">
                             
                             <h6>12th November, 2023</h6>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Visiting Day</p>
                     </div>
@@ -400,11 +400,11 @@
 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-4">
+                        <div class="col-3">
                             
                             <h6>12th December, 2023</h6>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Submission Of Scheme of Work, Registers and Diaries </p>
                     </div>
@@ -413,11 +413,11 @@
 
                 <div class="shadow p-3 mb-2 bg-body rounded">
                     <div class="row">
-                        <div class="col-4">
+                        <div class="col-3">
                             
                             <h6>15th December, 2023</h6>
                     </div>
-                    <div class="col-8">
+                    <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Christmas Party/Vacation of Students</p>
                     </div>

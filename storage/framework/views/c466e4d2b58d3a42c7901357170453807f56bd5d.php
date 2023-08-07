@@ -110,7 +110,7 @@ Bootstrap 4 breakpoints
 
 <div class="row">
     <div class="container">
-        <div class="col-6" style="font-family: 'Quicksand', sans-serif;">
+        <div class="col-12" style="font-family: 'Quicksand', sans-serif;">
             <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 40px;"><b>Nursery and Primary Section </b></h1>
         </div>
     </div>
@@ -120,11 +120,11 @@ Bootstrap 4 breakpoints
 <!-- About Principal of School -->
 <div class="row">
     <div class="container">
-        <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
+        <div class="col-12" style="margin-top: 40px; margin-bottom: 20px;" >
             <div class="row">
-                <div class="col-sm-12 col-md-5"  >
-                    <div class="container card">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/nur.jpg"  style="width:700px; height:300px; margin-bottom:10px;" />
+                <div class="col-sm-12 col-md-5" style = "border-right: 5px solid; border-right-color:#FFE5B4; margin-bottom:10px; padding-left:30px;">
+                    <div class="container card" style = "margin-bottom:10px;">
+                        <img class="rounded img-fluid mx-auto image" src="../assets/img/nur.jpg" style = "width:450px; height:300px; " />
                         
                         <div class="middle">
                             <div class="text rounded">
@@ -133,8 +133,8 @@ Bootstrap 4 breakpoints
                             </div>
                             </div>
                           </div>
-                          <div class="container card">
-                          <img class="rounded img-fluid mx-auto image" src="../assets/img/pri.jpg"  style="width:700px; height:300px;" />
+                    <div class="container card" style="">
+                          <img class="rounded img-fluid mx-auto image" src="../assets/img/pri.jpg" style = "width:450px; height:300px;" />
                           <div class="middle">
                             <div class="text rounded">
                             Primary Section
@@ -144,10 +144,10 @@ Bootstrap 4 breakpoints
                           </div>
                     
                     </div>
-                </div>
+                  </div>
 
                 <div class="col-sm-12 col-md-7">
-                    <div style="padding-left: 40px; padding-right: 20px; font-size: 17px;">
+                    <div style="padding-left: 20px; padding-right: 20px; font-size: 16px;">
                         
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px;">Nursery and Primary Section</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
@@ -191,7 +191,7 @@ Bootstrap 4 breakpoints
                
                 <div class="col-sm-12 col-md-12">
                     <div style="padding-left: 40px; padding-right: 20px; font-size: 17px; text-align: justify; font-family: 'Quicksand', sans-serif;">
-                        <h6 style="color:#4A0404; font-size: 30px;">Materials and Activities</h6>
+                        <h6 style="color:#4A0404; font-size: 30px; text-align:left;">Materials and Activities</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The materials in our classroom are divided into five main areas. Activity with these materials involves physical and mental action, linking body and mind.
                         <ol>

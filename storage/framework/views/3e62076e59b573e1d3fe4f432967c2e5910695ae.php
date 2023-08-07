@@ -90,7 +90,7 @@
                         <div class="col-3">
                             <h5 class = "text-danger"><b>Name</b></h5>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:30px;">
                             <h5 class = "text-danger"><b>Date</b></h5>
                         </div>
                     </div>
@@ -101,7 +101,7 @@
                             <h6 style="color:#4A0404;"><b>Autumn Term</br>
                         (2022-2023 Session)</b></h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:30px;">
                             <h6>Tuesday 24 August 2021 - Tuesday 21 December 2021</h6>
                             <p>(Nursery will be dismissed at 12 noon. Junior School will be dismissed at 12 noon. Lower School will be dismissed at 12 noon)</p>
                         </div>
@@ -112,7 +112,7 @@
                         <div class="col-3">
                             <h6 style="color:#4A0404;"><b>First Term</b></h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:30px;">
                             <h6>Thursday 7th of September 2023 - Friday 15th of December 2023</h6>
                             <p>School Resumes: Thursday 7 September 2023
                             </br>Boarders return on Sunday, 10th September 2023</p>
@@ -141,7 +141,7 @@
                         <div class="col-3">
                             <h6 style="color:#4A0404;"><b>Second Term</b></h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:30px;">
                             <h6>Monday 4 December 2021 - Friday 21 March 2022</h6>
                             <p>School Resumes: Monday 1 April 2022</p>
 
@@ -168,7 +168,7 @@
                             <h6 style="color:#4A0404;"><b>Third Term </br>
                         (2022-2023 Session)</b></h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:30px;">
                             <h6>Monday 4 December 2021 - Friday 21 March 2022</h6>
                             <p>School Resumes: Monday 1 April 2022</p>
 

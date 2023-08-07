@@ -23,7 +23,7 @@
                         <div class="col-3">
                             <h5 style = "font-style:oblique; font-weight:bold;">Dates</h5>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                             <h5 style = "font-style:oblique; font-weight:bold;">Activities</h5>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                         <div class="col-3">
                             <h6>Sunday 30th April, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Return of Boarders</p>
                     </div>
@@ -44,7 +44,7 @@
                         <div class="col-3">
                             <h6>Monday 1st May, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Workers Day. (Boarders remain in School)</p>
                         </div>
@@ -57,7 +57,7 @@
                         <div class="col-3">
                             <h6>Sunday 14th May, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                           
                             <p>Visiting Day. (Time: 10am – 5:30pm) </p>
                         </div>
@@ -72,7 +72,7 @@
                         <div class="col-3">
                             <h6>Saturday 27th May 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Children’s Day (Public Holiday) Boarders remain in school</p>
 
@@ -86,7 +86,7 @@
                         <div class="col-3">
                             <h6>Friday 9th June, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Open Day. (9am – 2pm)</p>
                             <p>Mid –Term Break Departure</p>
@@ -101,7 +101,7 @@
                         <div class="col-3">
                             <h6>Monday  12th – 16 June, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Mid – Term Break </p>
 
@@ -115,7 +115,7 @@
                         <div class="col-3">
                             <h6>Sunday 18th June, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Students return back to school (10am – 5:30pm)</p>
 
@@ -128,7 +128,7 @@
                         <div class="col-3">
                             <h6>Sunday 9th July, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Visiting Day (10am – 5:30pm)</p>
 
@@ -142,7 +142,7 @@
                         <div class="col-3">
                             <h6>Monday 17th – Saturday 22nd July 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>End of Trinity Term Examination (EOT)</p>
 
@@ -155,7 +155,7 @@
                         <div class="col-3">
                             <h6>Wednesday 26th July. 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Students Vacation</p>
 
@@ -169,7 +169,7 @@
                         <div class="col-3">
                             <h6>Friday 8th September, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>End of Trinity Term Holiday</p>
 
@@ -183,7 +183,7 @@
                         <div class="col-3">
                             <h6>Sunday 10th September, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Return of Boarders for Michaelmas Term 2023/2024 Academic Session</p>
 

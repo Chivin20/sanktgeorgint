@@ -122,9 +122,9 @@ Bootstrap 4 breakpoints
     <div class="container">
         <div class="col-12" style="margin-top: 50px; margin-bottom: 20px;" >
             <div class="row">
-                <div class="col-sm-12 col-md-5"  >
+                <div class="col-sm-12 col-md-5"  style = "border-right: 5px solid; border-right-color:#FFE5B4; margin-bottom:10px; padding-left:30px;">
                     <div class="container card">
-                        <img class="rounded img-fluid mx-auto image" src="../assets/img/p2.jpg"  style="width:900px; height:400px;" />
+                        <img class="rounded img-fluid mx-auto image" src="../assets/img/p2.jpg"  style="width:550px; height:400px;" />
                         <div class="middle">
                             <div class="text rounded">
                             Secondary Section
@@ -136,7 +136,7 @@ Bootstrap 4 breakpoints
                 </div>
 
                 <div class="col-sm-12 col-md-7">
-                    <div style="padding-left: 40px; padding-right: 20px; font-size: 18px;">
+                    <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
                         
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px; font-weight:bold;">Secondary Section</h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
@@ -171,7 +171,7 @@ Bootstrap 4 breakpoints
             <div class="row">
                
                 <div class="col-sm-12 col-md-12">
-                    <div style="padding-left: 40px; padding-right: 20px; font-size: 18px;">
+                    <div style="padding-left: 40px; padding-right: 20px; font-size: 16px;">
                         
                         <h6 style="color:#4A0404; font-family: 'Quicksand', sans-serif; font-size:30px; font-weight:bold;">Curriculum </h6>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">

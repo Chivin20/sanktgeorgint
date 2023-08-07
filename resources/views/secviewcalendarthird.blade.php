@@ -23,7 +23,7 @@
                         <div class="col-3">
                             <h5 style = "font-style:oblique; font-weight:bold;">Dates</h5>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                             <h5 style = "font-style:oblique; font-weight:bold;">Activities</h5>
                         </div>
                     </div>
@@ -33,7 +33,7 @@
                         <div class="col-3">
                             <h6>Thursday 27th April, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                             
                             <p>Resumption of Teaching and non Teaching Staff</p>
                             <p>Submission of Lesson notes/ plans, CAT 1, 2 and Examination questions</p>
@@ -45,7 +45,7 @@
                         <div class="col-3">
                             <h6>Sunday 30th April, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Return of Boarders</p>
                         </div>
@@ -58,7 +58,7 @@
                         <div class="col-3">
                             <h6>Monday 1st May, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                           
                             <p>Public holiday (Workers Day) </p>
                         </div>
@@ -73,7 +73,7 @@
                         <div class="col-3">
                             <h6>Tuesday 2nd May, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Classes Begin</p>
 
@@ -87,7 +87,7 @@
                         <div class="col-3">
                             <h6>Saturday 13th May, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Interview for successful Batch A candidates</p>
 
@@ -101,7 +101,7 @@
                         <div class="col-3">
                             <h6>Saturday 20th May, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Entrance Exams for Batch B candidates</p>
 
@@ -115,7 +115,7 @@
                         <div class="col-3">
                             <h6>Monday 22nd  - Saturday 27th May, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Trinity Term CAT 1.</p>
 
@@ -129,7 +129,7 @@
                         <div class="col-3">
                             <h6>Monday 29th May 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Public holiday (Children’s Day – May 27th) </p>
 
@@ -143,7 +143,7 @@
                         <div class="col-3">
                             <h6>Saturday 3rd June, 2023	</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Interview for successful Batch B candidates</p>
 
@@ -156,7 +156,7 @@
                         <div class="col-3">
                             <h6>Friday, 9th June , 2023	</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Open Day</p>
                             <p>Departure for Mid- Term Break</p>
@@ -171,7 +171,7 @@
                         <div class="col-3">
                             <h6>Monday 12th – Friday 16th June, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Mid–Term  Break</p>
 
@@ -185,7 +185,7 @@
                         <div class="col-3">
                             <h6>Sunday 18th  June, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Return of Boarders</p>
 
@@ -199,7 +199,7 @@
                         <div class="col-3">
                             <h6>Monday 19th – Saturday 24th June, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Trinity Term CAT 2</p>
 
@@ -213,7 +213,7 @@
                         <div class="col-3">
                             <h6>Monday 26th  June, 2023	</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Teaching continues</p>
 
@@ -227,7 +227,7 @@
                         <div class="col-3">
                             <h6>Monday 3rd – Friday 7th July, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Teaching Ends</p>
 
@@ -241,7 +241,7 @@
                         <div class="col-3">
                             <h6>Monday 10th – Friday 14th July, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Revision Exercise</p>
 
@@ -255,7 +255,7 @@
                         <div class="col-3">
                             <h6>Monday 17th – Saturday 22nd  July 2023 </h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>End of Trinity Term Examination (EOT)</p>
 
@@ -269,7 +269,7 @@
                         <div class="col-3">
                             <h6>Wednesday 26th July, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Students vacation</p>
 
@@ -283,7 +283,7 @@
                         <div class="col-3">
                             <h6>Friday 28th July, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Submission of Michaelmas Term Scheme of work and Teachers vacation</p>
 
@@ -306,7 +306,7 @@
                         <div class="col-3">
                             <h6>Thurday 7th September, 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Resumption of Teaching and non Teaching Staff</p>
                             <p>Seminar for Teaching Staff</p>
@@ -321,7 +321,7 @@
                         <div class="col-3">
                             <h6>Sunday 10th September 2023</h6>
                         </div>
-                        <div class="col-9">
+                        <div class="col-9" style = "padding-left:40px;">
                            
                             <p>Return of Boarders.</p>
 

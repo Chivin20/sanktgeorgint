@@ -46,8 +46,9 @@
 </style>
 <div class="row">
     <div class="container">
-        <div class="col-6" style="font-family: 'Quicksand', sans-serif;">
-            <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 37px;"><b>ADMINISTRATION</b></h1>
+        <div class="col-6" style="font-family: 'Quicksand', sans-serif; padding-left:2px; padding-right:40px;">
+            <h1 class="text-danger text-center mt-3 pt-3" style="font-size: 37px; ">
+            <b>ADMINISTRATION</b></h1>
         </div>
     </div>
 </div>

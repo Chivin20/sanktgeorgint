@@ -54,7 +54,7 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="{{route('others')}}" routerLink="/others" routerLinkActive="active">Students Life</a>
+            <a class="nav-link" href="{{route('others')}}" routerLink="/others" routerLinkActive="active">Students' Life</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="{{route('contact-us')}}" routerLink="/Contact-Us" routerLinkActive="active">Contact Us</a>
