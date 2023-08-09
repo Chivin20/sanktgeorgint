@@ -99,11 +99,11 @@
                     <div class="row">
                         <div class="col-3">
                             <h6 style="color:#4A0404;"><b>Autumn Term</br>
-                        (2022-2023 Session)</b></h6>
+                        </b></h6>
                         </div>
                         <div class="col-9" style = "padding-left:30px;">
-                            <h6>Tuesday 24 August 2021 - Tuesday 21 December 2021</h6>
-                            <p>(Nursery will be dismissed at 12 noon. Junior School will be dismissed at 12 noon. Lower School will be dismissed at 12 noon)</p>
+                            <h6>Details will be communicated appropriately and on time</h6>
+                            
                         </div>
                     </div>
                 </div>
@@ -142,9 +142,9 @@
                             <h6 style="color:#4A0404;"><b>Second Term</b></h6>
                         </div>
                         <div class="col-9" style = "padding-left:30px;">
-                            <h6>Monday 4 December 2021 - Friday 21 March 2022</h6>
-                            <p>School Resumes: Monday 1 April 2022</p>
+                            <h6>Details will be communicated appropriately and on time</h6>
 
+                            <!--
                             <div class = "col-3">
 
                                 <div class="dropdown">
@@ -157,7 +157,7 @@
                                             <li><a class = "dropdown-item" href="#">Parents' Calendar</a></li>
                                         </ul>
                                 </div> 
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -166,11 +166,12 @@
                     <div class="row">
                         <div class="col-3">
                             <h6 style="color:#4A0404;"><b>Third Term </br>
-                        (2022-2023 Session)</b></h6>
+                        </b></h6>
                         </div>
                         <div class="col-9" style = "padding-left:30px;">
-                            <h6>Monday 4 December 2021 - Friday 21 March 2022</h6>
-                            <p>School Resumes: Monday 1 April 2022</p>
+                            <h6>Details will be communicated appropriately and on time</h6>
+
+                            <!--
 
                             <div class = "col-3">
                                 <div class="dropdown">
@@ -183,7 +184,7 @@
                                             <li><a class = "dropdown-item" href="<?php echo e(route('parviewcalendarthird')); ?>" routerLink="/parviewcalendarthird" routerLinkActive="active">Parents' Calendar</a></li>
                                         </ul>
                                 </div> 
-                            </div>
+                            </div> -->
 
                         </div>
                     </div>

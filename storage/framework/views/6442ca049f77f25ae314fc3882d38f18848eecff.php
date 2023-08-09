@@ -101,7 +101,7 @@
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         The office of the school Bursar oversees the overall financial administration of the school. 
                         The Bursar is responsible for budget management, resource allocation, facility maintenance, and strategic 
-                        planning to enhance the school's performance. It functions in collaboration with the school management board.          
+                        planning to enhance the school's performance. The Bursar's office functions in collaboration with the school management board.          
                         </p>
 
                         <h5 style="color:#4A0404; font-family: 'Quicksand', sans-serif;"><b>Hostel Administrators:</b></h5>  
