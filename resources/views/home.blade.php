@@ -418,7 +418,7 @@ Thank you for taking the time to visit our website. If you have any questions or
                         <h2 style="color:#4A0404;"><b>Our Mission </b></h2>
                         <p style="text-align: justify; font-family: 'Quicksand', sans-serif;">
                         To inspire and motivate our students, through the establishment of adequate behavioural support, to meet the moral, 
-                        economic academic, sociocultural, 
+                        economic, academic, sociocultural, 
                         and emotional challenges of our time.
                         </p>
                     </div>
